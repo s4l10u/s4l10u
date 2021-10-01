@@ -17,12 +17,20 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"> </code>
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code>
+     <code> <img height="50" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"> </code>
+   <code> <img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"> </code>
+   <code> <img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/falco/falco-ar21.svg"> </code>
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"> </code>
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"> </code>
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg"> </code>
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code>
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-ar21.svg"> </code>
+ 
+
+ 
+ 
   <hr>
   <p align="center">
 
